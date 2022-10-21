@@ -1,0 +1,93 @@
+[
+    {
+        "key": "d1",
+        "data": {
+            "name": "Dave",
+            "info": "President of Sale",
+            "contact": {
+                "office": "781-000-002",
+                "mobile": "087-321-0292",
+                "sms": "617-000-002",
+                "email": "Dave@company.ie"
+            }
+        }
+    },
+    {
+        "key": "d2",
+        "data": {
+            "name": "Chris",
+            "info": "Project Manager",
+            "contact": {
+                "office": "781-000-201",
+                "mobile": "087-627-2122",
+                "sms": "617-002-2023",
+                "email": "chris@company.ie"
+            }
+        }
+    },
+    {
+        "key": "d3",
+        "data": {
+            "name": "Kebede",
+            "info": "Business Analyst",
+            "contact": {
+                "office": "781-000-021",
+                "mobile": "085-521-6122",
+                "sms": "617-001-272",
+                "email": "kebedes@company.ie"
+            }
+        }
+    },
+    {
+        "key": "d4",
+        "data": {
+            "name": "Mulu",
+            "info": "Web Developer",
+            "contact": {
+                "office": "781-000-003",
+                "mobile": "084-671-4322",
+                "sms": "617-000-176",
+                "email": "mulud@company.ie"
+            }
+        }
+    },
+    {
+        "key": "d5",
+        "data": {
+            "name": "Thomas",
+            "info": "Quality Assurance",
+            "contact": {
+                "office": "781-000-957",
+                "mobile": "087-871-0222",
+                "sms": "617-000-992",
+                "email": "thomas@company.ie"
+            }
+        }
+    },
+    {
+        "key": "d6",
+        "data": {
+            "name": "Almaz",
+            "info": "CEO",
+            "contact": {
+                "office": "288-000-321",
+                "mobile": "067-000-222",
+                "sms": "600 251-200",
+                "email": "almaz@email.com"
+            }
+        }
+    },
+    {
+        "key": "d7",
+        "data": {
+            "name": "Sarah",
+            "info": "UI/UX Designer",
+            "contact": {
+                "office": "781-000-012",
+                "mobile": "086-321-1752",
+                "sms": "617-000-012",
+                "email": "saratd@company.ie"
+            }
+        }
+    }
+]
